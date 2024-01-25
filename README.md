@@ -1,5 +1,9 @@
 # FireShadow
 
+* https://www.kaggle.com/learn
+
+* [Neural Networks: Zero to Hero Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
 * [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
 * [Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A)
@@ -28,6 +32,7 @@
 
 * DATA SCIENCE (The MIT Press Essential Knowledge series)
 * Fundamentals of Data Engineering
+* Data Science From Scratch
 
 * Learning Spark
 * Spark: The Definitive Guide
@@ -39,6 +44,7 @@
 * Machine Learning using Python
 * Machine Learning: The New AI (The MIT Press Essential Knowledge series)
 * Machine Learning Simplified
+* Machine Learning Engineering
 
 * Deep Learning (Adaptive Computation and Machine Learning series)
 * DEEP LEARNING ILLUSTRATED
