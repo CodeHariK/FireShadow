@@ -25,14 +25,19 @@
 
 ## Books
 
+* Data Science on AWS
+* Data Engineering with AWS
+* Becoming a Data Head
+
 * Algorithms (The MIT Press Essential Knowledge series)
 
+* Essential Math for Data Science
 * MATHEMATICS FOR MACHINE LEARNING
 * Practical Statistics for Data Scientists
 
+* Data Science From Scratch
 * DATA SCIENCE (The MIT Press Essential Knowledge series)
 * Fundamentals of Data Engineering
-* Data Science From Scratch
 
 * Learning Spark
 * Spark: The Definitive Guide
