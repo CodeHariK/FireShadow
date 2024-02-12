@@ -31,7 +31,6 @@
 
 * Algorithms (The MIT Press Essential Knowledge series)
 
-* Essential Math for Data Science
 * MATHEMATICS FOR MACHINE LEARNING
 * Practical Statistics for Data Scientists
 
@@ -50,11 +49,20 @@
 * Machine Learning: The New AI (The MIT Press Essential Knowledge series)
 * Machine Learning Simplified
 * Machine Learning Engineering
+* Machine Learning: A Probabilistic Perspective
+* Probabilistic Machine Learning
 
-* Deep Learning (Adaptive Computation and Machine Learning series)
+* Deep Learning: A Visual Approach
+* Deep Learning (Ian Goodfellow)
+* Deep Learning for Coders with Fastai and PyTorch
+* Deep Learning (Adaptive Computation and MATHEMATICS FOR MACHINE LEARNINGe Learning series)
 * DEEP LEARNING ILLUSTRATED
 * DEEP LEARNING (The MIT Press Essential Knowledge series)
 * Deep Learning from Scratch
 
 * Natural Language Processing with Transformers
 * Generative Deep Learning
+
+* PATTERN RECOGNITION AND MACHINE LEARNING
+
+* Reinforcement Learning
