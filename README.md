@@ -14,6 +14,8 @@
 
 * [Data Engineering Course for Beginners](https://www.youtube.com/watch?v=PHsC_t0j1dU)
 
+* [Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases](https://www.youtube.com/watch?v=mEsleV16qdo&ab_channel=freeCodeCamp.org)
+
 * https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/
 * https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
 * https://www.udemy.com/course/practical-mlops-for-data-scientists-devops-engineers-aws/
@@ -59,6 +61,7 @@
 * DEEP LEARNING ILLUSTRATED
 * DEEP LEARNING (The MIT Press Essential Knowledge series)
 * Deep Learning from Scratch
+* Understanding Deep Learning
 
 * Natural Language Processing with Transformers
 * Generative Deep Learning

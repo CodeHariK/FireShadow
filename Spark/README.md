@@ -5,3 +5,5 @@
 ## Tutorials
 
 * [PySpark Tutorial](https://www.youtube.com/watch?v=_C8kWso4ne4)
+
+* [Spark Structured Streaming Example (Kafka, Spark, Cassandra)](https://www.youtube.com/watch?v=CGT8v8_9i2g)
