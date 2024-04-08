@@ -42,3 +42,7 @@
 * [AWS GLUE Complete ETL Project Demo| Load Data from AWS S3 to Amazon RedShift](https://www.youtube.com/watch?v=EhaXoMRCftY)
 * [Smart City End to End Realtime Data Engineering Project](https://www.youtube.com/watch?v=Vv_fvwF41_0)
 * [Realtime Data Streaming](https://www.youtube.com/watch?v=GqAcTrqKcrY)
+
+## Bedrock
+
+* [Generative AI In AWS-AWS Bedrock Crash Course](https://www.youtube.com/watch?v=2maPaQutcWs&list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj)
