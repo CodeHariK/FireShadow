@@ -1,0 +1,28 @@
+[2024-04-29T10:03:40.317+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: tutorial.sleep scheduled__2024-04-28T04:33:38.943188+00:00 [queued]>
+[2024-04-29T10:03:40.319+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: tutorial.sleep scheduled__2024-04-28T04:33:38.943188+00:00 [queued]>
+[2024-04-29T10:03:40.319+0530] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2024-04-29T10:03:40.319+0530] {taskinstance.py:1363} INFO - Starting attempt 1 of 4
+[2024-04-29T10:03:40.319+0530] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2024-04-29T10:03:40.322+0530] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): sleep> on 2024-04-28 04:33:38.943188+00:00
+[2024-04-29T10:03:40.324+0530] {standard_task_runner.py:55} INFO - Started process 43538 to run task
+[2024-04-29T10:03:40.326+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial', 'sleep', 'scheduled__2024-04-28T04:33:38.943188+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/tutorial.py', '--cfg-path', '/var/folders/ks/_614mn9d3c53zg_y00d9md840000gn/T/tmp0xcrtv56']
+[2024-04-29T10:03:40.327+0530] {standard_task_runner.py:83} INFO - Job 6: Subtask sleep
+[2024-04-29T10:03:40.339+0530] {task_command.py:376} INFO - Running <TaskInstance: tutorial.sleep scheduled__2024-04-28T04:33:38.943188+00:00 [running]> on host apple.local
+[2024-04-29T10:03:40.352+0530] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tutorial
+AIRFLOW_CTX_TASK_ID=sleep
+AIRFLOW_CTX_EXECUTION_DATE=2024-04-28T04:33:38.943188+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-04-28T04:33:38.943188+00:00
+[2024-04-29T10:03:40.353+0530] {subprocess.py:63} INFO - Tmp dir root location: 
+ /var/folders/ks/_614mn9d3c53zg_y00d9md840000gn/T
+[2024-04-29T10:03:40.353+0530] {subprocess.py:75} INFO - Running command: ['/opt/homebrew/bin/bash', '-c', 'sleep 5']
+[2024-04-29T10:03:40.355+0530] {subprocess.py:86} INFO - Output:
+[2024-04-29T10:03:45.364+0530] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-04-29T10:03:45.379+0530] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=tutorial, task_id=sleep, execution_date=20240428T043338, start_date=20240429T043340, end_date=20240429T043345
+[2024-04-29T10:03:45.385+0530] {local_task_job.py:159} INFO - Task exited with return code 0
+[2024-04-29T10:03:45.392+0530] {taskinstance.py:2623} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,23 @@
+[2024-04-29T10:28:08.408+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: tutorial_dag.transform manual__2024-04-29T04:58:05.873872+00:00 [queued]>
+[2024-04-29T10:28:08.410+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: tutorial_dag.transform manual__2024-04-29T04:58:05.873872+00:00 [queued]>
+[2024-04-29T10:28:08.410+0530] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2024-04-29T10:28:08.410+0530] {taskinstance.py:1363} INFO - Starting attempt 1 of 3
+[2024-04-29T10:28:08.410+0530] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2024-04-29T10:28:08.413+0530] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): transform> on 2024-04-29 04:58:05.873872+00:00
+[2024-04-29T10:28:08.415+0530] {standard_task_runner.py:55} INFO - Started process 57229 to run task
+[2024-04-29T10:28:08.417+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial_dag', 'transform', 'manual__2024-04-29T04:58:05.873872+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/tutorial_dag.py', '--cfg-path', '/var/folders/ks/_614mn9d3c53zg_y00d9md840000gn/T/tmpfl7aqolz']
+[2024-04-29T10:28:08.418+0530] {standard_task_runner.py:83} INFO - Job 9: Subtask transform
+[2024-04-29T10:28:08.431+0530] {task_command.py:376} INFO - Running <TaskInstance: tutorial_dag.transform manual__2024-04-29T04:58:05.873872+00:00 [running]> on host apple.local
+[2024-04-29T10:28:08.444+0530] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tutorial_dag
+AIRFLOW_CTX_TASK_ID=transform
+AIRFLOW_CTX_EXECUTION_DATE=2024-04-29T04:58:05.873872+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-04-29T04:58:05.873872+00:00
+[2024-04-29T10:28:08.448+0530] {python.py:177} INFO - Done. Returned value was: None
+[2024-04-29T10:28:08.449+0530] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=tutorial_dag, task_id=transform, execution_date=20240429T045805, start_date=20240429T045808, end_date=20240429T045808
+[2024-04-29T10:28:08.479+0530] {local_task_job.py:159} INFO - Task exited with return code 0
+[2024-04-29T10:28:08.485+0530] {taskinstance.py:2623} INFO - 1 downstream tasks scheduled from follow-on schedule check
