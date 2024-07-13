@@ -73,3 +73,7 @@
 * PATTERN RECOGNITION AND MACHINE LEARNING
 
 * Reinforcement Learning
+
+### Talks
+
+* [How to Handle Very Large Data with Python](https://www.youtube.com/watch?v=YDP0ZRIdavw)
