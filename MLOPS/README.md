@@ -1,5 +1,7 @@
 # MLOPS
 
+* [MLOps Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
 * Designing Machine Learning Systems
 * [CS329S How to Deploy a Machine Learning Model to Google Cloud](https://www.youtube.com/watch?v=fw6NMQrYc6w)
 * [ML Monitoring CS329S Machine Learning Systems Design](https://www.youtube.com/watch?v=uVqfYkcodeE)

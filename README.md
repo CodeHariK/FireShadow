@@ -14,6 +14,8 @@
 
 * [Python Data Analysis and Visualization Course – Astronomical Data](https://www.youtube.com/watch?v=H9KefzbryEw)
 
+* [CS246, Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
+
 * [MLOps Course – Build Machine Learning Production Grade Projects](https://www.youtube.com/watch?v=-dJPoLm_gtE)
 
 * [Data Engineering Course for Beginners](https://www.youtube.com/watch?v=PHsC_t0j1dU)

@@ -26,3 +26,5 @@
 * [Tree-Based Algorithms](https://www.youtube.com/playlist?list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_)
 
 * [How Deep Neural Networks Work - Full Course for Beginners](https://www.youtube.com/watch?v=dPWYUELwIdM)
+
+* [Machine Learning Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)

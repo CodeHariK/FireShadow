@@ -4,6 +4,8 @@
 
 * [Data Engineering Projects](https://www.youtube.com/playlist?list=PLLrA_pU9-Gz1pH4JdBMxHtK6aku_IZTvk)
 
+* [Data Engineering Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
+
 ## Beam
 
 * https://github.com/apache/beam/tree/master/sdks/go/examples
