@@ -1,5 +1,6 @@
 # Machine Learning
 
+* [Misra : 50 Days of Deep Learning](https://www.youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
 * [Misra : Machine Learning From Scratch](https://www.youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 * [Misra : Hands-on Data Science: Complete your First Project](https://www.youtube.com/playlist?list=PLM8lYG2MzHmTgsYKLJtdKwf6tHVbui9eE)
 * [Misra : Deep Learning Explained](https://www.youtube.com/playlist?list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX)
@@ -13,6 +14,8 @@
 
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+
+* [Applied Deep Learning](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8tSQuU3jN71fmmGFFCi7Dc)
 
 * [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Carnegie Mellon University Deep Learning](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
