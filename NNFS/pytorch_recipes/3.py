@@ -1,4 +1,4 @@
-import gym
+import gymnasium as gym
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -67,7 +67,7 @@ for episode in range(EPISODES):
 
             q_table[discrete_state + (action, )] = new_q
 
-        elif new_state[0] >= env.goal_position:
+        elif new_state[0] >= env.unwrapped.goal_position:
 
             q_table[discrete_state + (action, )] = 0
 
